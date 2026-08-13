@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "2024",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A deep learning system for predicting time to progression of diabetic retinopathy [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-20T05:59:09Z",
+            "owner": "drpredict",
+            "repo": "DeepDR_Plus",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetiGen: A Framework for Generalized Retinal Diagnosis Using Multi-View Fundus Images [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-15T20:28:34Z",
+            "owner": "RViMLab",
+            "repo": "RetiGen",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Grading"
+    },
+    {
+      "description": "2023",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Optimal Transport Guided Unsupervised Learning for Enhancing low-quality Retinal Images [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-27T20:22:09Z",
+            "owner": "Retinal-Research",
+            "repo": "OTE-GAN",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-13T01:30:35Z",
+            "owner": "QtacierP",
+            "repo": "LED",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-02T05:33:55Z",
+            "owner": "Retinal-Research",
+            "repo": "OTRE",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Enhancement"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Team o_O",
+          "description": "] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-01-29T03:44:52Z",
+            "owner": "sveitser",
+            "repo": "kaggle_diabetic",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[EyeNet",
+          "description": "] Identifying diabetic retinopathy using convolutional neural networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-21T21:28:08Z",
+            "owner": "gregwchase",
+            "repo": "eyenet",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[EyePACS",
+          "description": "] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-19T21:59:37Z",
+            "owner": "YijinHuang",
+            "repo": "pytorch-classification",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:05:31.422Z",
+    "original_repository": "FDU-VTS/Awesome-Diabetic-Retinopathy-Detection",
+    "original_repository_sha": "c0c872039de4396b9555456fdaf11cd10c484b9b",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Diabetic-Retinopathy-Detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Diabetic-Retinopathy-Detection with stars"
+  }
+}
