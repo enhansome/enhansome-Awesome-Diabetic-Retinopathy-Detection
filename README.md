@@ -104,7 +104,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * A foundation model for generalizable disease detection from retinal images
   [\[pdf\]](https://www.nature.com/articles/s41586-023-06555-x)
-  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 663 | 🐛 5 | 🌐 Python | 📅 2025-11-30
+  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 664 | 🐛 5 | 🌐 Python | 📅 2025-11-30
   * Yukun Zhou, Mark A. Chia, Siegfried K. Wagner, Murat S. Ayhan, Dominic J. Williamson, Robbert R. Struyven, Timing Liu, Moucheng Xu, Mateo G. Lozano, Peter Woodward-Court, Yuka Kihara, UK Biobank Eye & Vision Consortium, Andre Altmann, Aaron Y. Lee, Eric J. Topol, Alastair K. Denniston, Daniel C. Alexander & Pearse A. Keane. **Nature 2023**
 
 * Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
