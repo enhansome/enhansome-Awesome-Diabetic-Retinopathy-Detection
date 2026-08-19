@@ -1,99 +1,372 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A deep learning system for predicting time to progression of diabetic retinopathy [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693971248,
+                "language": "Python",
+                "last_commit": "2023-09-20T05:59:09Z",
+                "owner": "drpredict",
+                "repo": "DeepDR_Plus",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RetiGen: A Framework for Generalized Retinal Diagnosis Using Multi-View Fundus Images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775549527,
+                "language": "Python",
+                "last_commit": "2024-07-15T20:28:34Z",
+                "owner": "RViMLab",
+                "repo": "RetiGen",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A foundation model for generalizable disease detection from retinal images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595366850,
+                "language": "Python",
+                "last_commit": "2025-11-30T13:57:57Z",
+                "owner": "rmaphoh",
+                "repo": "RETFound",
+                "stars": 664
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664989659,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-04T02:45:24Z",
+                "owner": "chehx",
+                "repo": "DGDR",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Quality-aware Diagnosis via Meta-knowledge Co-embedding [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617323079,
+                "language": "Python",
+                "last_commit": "2023-05-27T04:41:17Z",
+                "owner": "chehx",
+                "repo": "MKCNet",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diabetic Retinopathy Grading with Weakly-Supervised Lesion Priors [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576846096,
+                "language": "Python",
+                "last_commit": "2025-01-11T07:05:41Z",
+                "owner": "FDU-VTS",
+                "repo": "LANet",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lesion-Aware Contrastive Learning for Diabetic Retinopathy Diagnosis [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608171926,
+                "language": "Python",
+                "last_commit": "2024-02-23T02:20:13Z",
+                "owner": "IntelliDAL",
+                "repo": "Image",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554548657,
+                "language": "Python",
+                "last_commit": "2024-12-05T06:32:10Z",
+                "owner": "YijinHuang",
+                "repo": "SSiT",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527086280,
+                "language": "Python",
+                "last_commit": "2024-05-28T13:53:22Z",
+                "owner": "FDU-VTS",
+                "repo": "DRTiD",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep-OCTA: Ensemble Deep Learning Approaches for Diabetic Retinopathy Analysis on OCTA Images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543064320,
+                "language": "Python",
+                "last_commit": "2024-03-05T07:57:58Z",
+                "owner": "FDU-VTS",
+                "repo": "DRAC",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Focused Attention in Transformers for interpretable classification of retinal images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509324507,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-07-01T04:56:42Z",
+                "owner": "ClementPla",
+                "repo": "FocusedAttention",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383100186,
+                "language": "Python",
+                "last_commit": "2021-11-27T01:24:02Z",
+                "owner": "greentreeys",
+                "repo": "MIL-VT",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lesion-Based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383751773,
+                "language": "Python",
+                "last_commit": "2024-06-28T13:55:49Z",
+                "owner": "YijinHuang",
+                "repo": "Lesion-based-Contrastive-Learning",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278927022,
+                "language": "Python",
+                "last_commit": "2023-02-15T23:24:06Z",
+                "owner": "xmengli",
+                "repo": "Rotation-oriented-self-supervised",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Self-Supervised Feature Learning via Exploiting Multi-Modal Data for Retinal Disease Diagnosis [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261065561,
+                "language": "Python",
+                "last_commit": "2023-02-15T23:16:02Z",
+                "owner": "xmengli",
+                "repo": "self_supervised",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283901643,
+                "language": "Python",
+                "last_commit": "2023-06-05T10:39:57Z",
+                "owner": "NKUhealong",
+                "repo": "CABnet",
+                "stars": 41
+              }
+            }
+          ],
+          "description": "2024\n2023\n2022\n2021\n2020\n2019\n2018\n2016",
+          "node_type": "group",
+          "title": "Grading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Optimal Transport Guided Unsupervised Learning for Enhancing low-quality Retinal Images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554719388,
+                "language": "Python",
+                "last_commit": "2023-12-27T20:22:09Z",
+                "owner": "Retinal-Research",
+                "repo": "OTE-GAN",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611365267,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-13T01:30:35Z",
+                "owner": "QtacierP",
+                "repo": "LED",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561447963,
+                "language": "Python",
+                "last_commit": "2025-08-02T05:33:55Z",
+                "owner": "Retinal-Research",
+                "repo": "OTRE",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Structure-Consistent Restoration Network for Cataract Fundus Image Enhancement [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500815400,
+                "language": "Python",
+                "last_commit": "2024-06-12T02:08:47Z",
+                "owner": "liamheng",
+                "repo": "Annotation-free-Fundus-Image-Enhancement",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An Annotation-Free Restoration Network for Cataractous Fundus Images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500815400,
+                "language": "Python",
+                "last_commit": "2024-06-12T02:08:47Z",
+                "owner": "liamheng",
+                "repo": "Annotation-free-Fundus-Image-Enhancement",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Degradation-invariant Enhancement of Fundus Images via Pyramid Constraint Network [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 504073554,
+                "language": "Python",
+                "last_commit": "2022-10-18T13:28:49Z",
+                "owner": "HeverLaw",
+                "repo": "PCENet-Image-Enhancement",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOMAIN GENERALIZATION IN RESTORATION OF CATARACT FUNDUS IMAGES VIA HIGH-FREQUENCY COMPONENTS [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405024735,
+                "language": "Python",
+                "last_commit": "2022-03-29T02:26:46Z",
+                "owner": "HeverLaw",
+                "repo": "Restoration-of-Cataract-Images-via-Domain-Generalization",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "2023\n2022\n2021",
+          "node_type": "group",
+          "title": "Enhancement"
+        }
+      ],
       "title": "Papers"
     },
     {
-      "description": "2024",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "A deep learning system for predicting time to progression of diabetic retinopathy [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-20T05:59:09Z",
-            "owner": "drpredict",
-            "repo": "DeepDR_Plus",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RetiGen: A Framework for Generalized Retinal Diagnosis Using Multi-View Fundus Images [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-15T20:28:34Z",
-            "owner": "RViMLab",
-            "repo": "RetiGen",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Grading"
-    },
-    {
-      "description": "2023",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Optimal Transport Guided Unsupervised Learning for Enhancing low-quality Retinal Images [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-27T20:22:09Z",
-            "owner": "Retinal-Research",
-            "repo": "OTE-GAN",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-04-13T01:30:35Z",
-            "owner": "QtacierP",
-            "repo": "LED",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-02T05:33:55Z",
-            "owner": "Retinal-Research",
-            "repo": "OTRE",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Enhancement"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -102,6 +375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40316391,
             "language": "Python",
             "last_commit": "2016-01-29T03:44:52Z",
             "owner": "sveitser",
@@ -116,6 +390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103049010,
             "language": "Python",
             "last_commit": "2021-05-21T21:28:08Z",
             "owner": "gregwchase",
@@ -130,6 +405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237594878,
             "language": "Python",
             "last_commit": "2025-09-19T21:59:37Z",
             "owner": "YijinHuang",
@@ -142,8 +418,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:41:28.903Z",
+    "last_updated": "2026-08-19T12:08:26.244Z",
     "original_repository": "FDU-VTS/Awesome-Diabetic-Retinopathy-Detection",
+    "original_repository_id": 248641599,
     "original_repository_sha": "c0c872039de4396b9555456fdaf11cd10c484b9b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diabetic-Retinopathy-Detection",
     "enhanced_repository_description": null,
