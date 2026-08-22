@@ -47,7 +47,7 @@
                 "last_commit": "2025-11-30T13:57:57Z",
                 "owner": "rmaphoh",
                 "repo": "RETFound",
-                "stars": 664
+                "stars": 665
               }
             },
             {
@@ -418,7 +418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:42:38.497Z",
+    "last_updated": "2026-08-22T21:39:28.755Z",
     "original_repository": "FDU-VTS/Awesome-Diabetic-Retinopathy-Detection",
     "original_repository_id": 248641599,
     "original_repository_sha": "c0c872039de4396b9555456fdaf11cd10c484b9b",
