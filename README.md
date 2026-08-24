@@ -44,14 +44,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Survey
 
-* Deep learning techniques for diabetic retinopathy classification: A survey
-  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9729867)
-  * Mohammad Z. Atwany, Abdulwahab H. Sahyoun, Mohammad Yaqub. *IEEE Access 2022*
-
 * Applications of Deep Learning in Fundus Images: A Review
   [\[pdf\]](https://arxiv.org/abs/2101.09864)
   [\[code\]](https://github.com/nkicsl/Fundus_Review) ⭐ 92 | 🐛 0 | 📅 2022-02-13
   * Tao Li, Wang Bo, Chunyu Hu, Hong Kang, Hanruo Liu, Kai Wang, Huazhu Fu. *MIA 2021*
+
+* Deep learning techniques for diabetic retinopathy classification: A survey
+  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9729867)
+  * Mohammad Z. Atwany, Abdulwahab H. Sahyoun, Mohammad Yaqub. *IEEE Access 2022*
 
 * IDRiD: Diabetic Retinopathy – Segmentation and Grading Challenge
   [\[pdf\]](https://www.sciencedirect.com/science/article/pii/S1361841519301033)
@@ -238,14 +238,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 **2019**
 
-* Collaborative learning of semi-supervised segmentation and classification for medical images
-  [\[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)
-  * Yi Zhou, Xiaodong He, Lei Huang. *CVPR 2019*
-
 * CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading
   [\[pdf\]](https://arxiv.org/abs/1911.01376)
   [\[code\]](https://github.com/xmengli999/CANet) ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2020-08-12
   * Xiaomeng Li, Xiaowei Hu, Lequan Yu. *TMI 2019*
+
+* Collaborative learning of semi-supervised segmentation and classification for medical images
+  [\[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)
+  * Yi Zhou, Xiaodong He, Lei Huang. *CVPR 2019*
 
 * BIRA-NET: BILINEAR ATTENTION NET FOR DIABETIC RETINOPATHY GRADING
   [\[pdf\]](https://arxiv.org/pdf/1905.06312.pdf)
@@ -314,6 +314,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 **2019**
 
+* L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images
+  [\[pdf\]](https://www.sciencedirect.com/science/article/pii/S0925231219305430)
+  [\[code\]](https://github.com/guomugong/L-Seg) ⭐ 19 | 🐛 1 | 🌐 C++ | 📅 2019-05-31
+  * SongGuo, TaoLi, HongKang, NingLi, YujunZhang, KaiWang. *Neurocomputing 2019*
+
 * DoFE: Domain-oriented Feature Embedding for Generalizable Fundus Image Segmentation on Unseen Datasets
   [\[pdf\]](https://ieeexplore.ieee.org/document/9098673)
   * Shujun Wang，Lequan Yu，Kang Li，Xin Yang，Pheng-Ann Heng. *TMI 2019*
@@ -333,11 +338,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * Attention Guided Network for Retinal Image Segmentation
   [\[pdf\]](https://arxiv.org/pdf/1907.12930.pdf)
   * Zhang, Shihao，Fu, Huazhu，Yan, Yuguang，Zhang, Yubing，Wu, Qingyao，Yang, Ming，Tan, Mingkui，Xu, Yanwu. *MICCAI 2019*
-
-* L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images
-  [\[pdf\]](https://www.sciencedirect.com/science/article/pii/S0925231219305430)
-  [\[code\]](https://github.com/guomugong/L-Seg) ⭐ 19 | 🐛 1 | 🌐 C++ | 📅 2019-05-31
-  * SongGuo, TaoLi, HongKang, NingLi, YujunZhang, KaiWang. *Neurocomputing 2019*
 
 * Joint segmentation and classification of retinal arteries/veins from fundus images
   [\[pdf\]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

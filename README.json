@@ -4,6 +4,94 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "GDRBench",
+          "description": "2023 111,357 / / / / Multiple Institues Domain Generalization in DR Grading (DGDR)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664989659,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-04T02:45:24Z",
+            "owner": "chehx",
+            "repo": "DGDR",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFIDDR",
+          "description": "2023 34,452 JPEG Zeiss VISUCAM NM/FA 2124 × 2056 / / DR grading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 501585640,
+            "language": null,
+            "last_commit": "2026-06-08T13:49:52Z",
+            "owner": "mfiddr",
+            "repo": "MFIDDR",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DRTiD",
+          "description": "2022 3100 jpg / / Two-field 45° FDU DR grading / localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527086280,
+            "language": "Python",
+            "last_commit": "2024-05-28T13:53:22Z",
+            "owner": "FDU-VTS",
+            "repo": "DRTiD",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DDR",
+          "description": "2019 13673 jpg Topcon, Nikon, Canon / 45° Nankai DR grading / Lesion segmentation/detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185327698,
+            "language": null,
+            "last_commit": "2024-11-01T07:28:17Z",
+            "owner": "nkicsl",
+            "repo": "DDR-dataset",
+            "stars": 131
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Applications of Deep Learning in Fundus Images: A Review [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301281657,
+                "language": null,
+                "last_commit": "2022-02-13T03:13:50Z",
+                "owner": "nkicsl",
+                "repo": "Fundus_Review",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Survey"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -244,11 +332,78 @@
                 "repo": "CABnet",
                 "stars": 41
               }
+            },
+            {
+              "node_type": "item",
+              "title": "CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219256164,
+                "language": "Python",
+                "last_commit": "2020-08-12T19:37:27Z",
+                "owner": "xmengli",
+                "repo": "CANet",
+                "stars": 84
+              }
             }
           ],
           "description": "2024\n2023\n2022\n2021\n2020\n2019\n2018\n2016",
           "node_type": "group",
           "title": "Grading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation [pdf]",
+              "description": "[code] [video]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732247232,
+                "language": "Python",
+                "last_commit": "2025-04-29T03:30:04Z",
+                "owner": "xqh180110910537",
+                "repo": "HACDR-Net",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Automated lesion segmentation in fundus images with many-to-many reassembly of features [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433037562,
+                "language": "Python",
+                "last_commit": "2023-02-21T11:08:18Z",
+                "owner": "CVIU-CSU",
+                "repo": "M2MRF-Lesion-Segmentation",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181260126,
+                "language": "C++",
+                "last_commit": "2019-05-31T05:15:56Z",
+                "owner": "guomugong",
+                "repo": "L-Seg",
+                "stars": 19
+              }
+            }
+          ],
+          "description": "2024\n2023\n2022\n2020\n2019\n2017",
+          "node_type": "group",
+          "title": "Segmentation"
         },
         {
           "children": [
@@ -356,6 +511,21 @@
                 "repo": "Restoration-of-Cataract-Images-via-Domain-Generalization",
                 "stars": 3
               }
+            },
+            {
+              "node_type": "item",
+              "title": "I-SECRET: Importance-Guided Fundus Image Enhancement via Semi-supervised Contrastive Constraining [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381592606,
+                "language": "Python",
+                "last_commit": "2024-02-27T09:35:48Z",
+                "owner": "QtacierP",
+                "repo": "ISECRET",
+                "stars": 29
+              }
             }
           ],
           "description": "2023\n2022\n2021",
@@ -418,7 +588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:38:37.969Z",
+    "last_updated": "2026-08-24T14:34:29.513Z",
     "original_repository": "FDU-VTS/Awesome-Diabetic-Retinopathy-Detection",
     "original_repository_id": 248641599,
     "original_repository_sha": "c0c872039de4396b9555456fdaf11cd10c484b9b",
