@@ -588,9 +588,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:50:36.509Z",
-    "original_repository": "FDU-VTS/Awesome-Diabetic-Retinopathy-Detection",
-    "original_repository_id": 248641599,
+    "last_updated": "2026-08-27T11:23:25.704Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 248641599,
+      "language": null,
+      "last_commit": "2024-04-09T15:27:11Z",
+      "owner": "FDU-VTS",
+      "repo": "Awesome-Diabetic-Retinopathy-Detection",
+      "stars": 173
+    },
     "original_repository_sha": "c0c872039de4396b9555456fdaf11cd10c484b9b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diabetic-Retinopathy-Detection",
     "enhanced_repository_description": null,
