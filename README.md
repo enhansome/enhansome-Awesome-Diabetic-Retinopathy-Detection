@@ -104,7 +104,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * A foundation model for generalizable disease detection from retinal images
   [\[pdf\]](https://www.nature.com/articles/s41586-023-06555-x)
-  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 665 | 🐛 5 | 🌐 Python | 📅 2025-11-30
+  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 666 | 🐛 5 | 🌐 Python | 📅 2025-11-30
   * Yukun Zhou, Mark A. Chia, Siegfried K. Wagner, Murat S. Ayhan, Dominic J. Williamson, Robbert R. Struyven, Timing Liu, Moucheng Xu, Mateo G. Lozano, Peter Woodward-Court, Yuka Kihara, UK Biobank Eye & Vision Consortium, Andre Altmann, Aaron Y. Lee, Eric J. Topol, Alastair K. Denniston, Daniel C. Alexander & Pearse A. Keane. **Nature 2023**
 
 * Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains
@@ -181,7 +181,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification
   [\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)
-  [\[code\]](https://github.com/greentreeys/MIL-VT) ⭐ 66 | 🐛 10 | 🌐 Python | 📅 2021-11-27
+  [\[code\]](https://github.com/greentreeys/MIL-VT) ⭐ 67 | 🐛 10 | 🌐 Python | 📅 2021-11-27
   * Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng. *MICCAI 2021*
 
 * Lesion-Based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
