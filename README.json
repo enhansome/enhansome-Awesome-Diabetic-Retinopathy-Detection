@@ -16,7 +16,8 @@
             "owner": "chehx",
             "repo": "DGDR",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T05:27:07.094Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mfiddr",
             "repo": "MFIDDR",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T05:27:07.094Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "FDU-VTS",
             "repo": "DRTiD",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T05:27:07.094Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nkicsl",
             "repo": "DDR-dataset",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T05:27:07.094Z"
         }
       ],
       "title": "Datasets"
@@ -84,7 +88,8 @@
                 "owner": "nkicsl",
                 "repo": "Fundus_Review",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             }
           ],
           "description": null,
@@ -106,7 +111,8 @@
                 "owner": "drpredict",
                 "repo": "DeepDR_Plus",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "RViMLab",
                 "repo": "RetiGen",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "rmaphoh",
                 "repo": "RETFound",
                 "stars": 666
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "chehx",
                 "repo": "DGDR",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "chehx",
                 "repo": "MKCNet",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "FDU-VTS",
                 "repo": "LANet",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "IntelliDAL",
                 "repo": "Image",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "YijinHuang",
                 "repo": "SSiT",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "FDU-VTS",
                 "repo": "DRTiD",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "FDU-VTS",
                 "repo": "DRAC",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "ClementPla",
                 "repo": "FocusedAttention",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "greentreeys",
                 "repo": "MIL-VT",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "YijinHuang",
                 "repo": "Lesion-based-Contrastive-Learning",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "xmengli",
                 "repo": "Rotation-oriented-self-supervised",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "xmengli",
                 "repo": "self_supervised",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "NKUhealong",
                 "repo": "CABnet",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "xmengli",
                 "repo": "CANet",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             }
           ],
           "description": "2024\n2023\n2022\n2021\n2020\n2019\n2018\n2016",
@@ -368,7 +390,8 @@
                 "owner": "xqh180110910537",
                 "repo": "HACDR-Net",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "CVIU-CSU",
                 "repo": "M2MRF-Lesion-Segmentation",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -398,7 +422,8 @@
                 "owner": "guomugong",
                 "repo": "L-Seg",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             }
           ],
           "description": "2024\n2023\n2022\n2020\n2019\n2017",
@@ -420,7 +445,8 @@
                 "owner": "Retinal-Research",
                 "repo": "OTE-GAN",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "QtacierP",
                 "repo": "LED",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "Retinal-Research",
                 "repo": "OTRE",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -465,7 +493,8 @@
                 "owner": "liamheng",
                 "repo": "Annotation-free-Fundus-Image-Enhancement",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -480,7 +509,8 @@
                 "owner": "liamheng",
                 "repo": "Annotation-free-Fundus-Image-Enhancement",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -495,7 +525,8 @@
                 "owner": "HeverLaw",
                 "repo": "PCENet-Image-Enhancement",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "HeverLaw",
                 "repo": "Restoration-of-Cataract-Images-via-Domain-Generalization",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "QtacierP",
                 "repo": "ISECRET",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T05:27:07.094Z"
             }
           ],
           "description": "2023\n2022\n2021",
@@ -551,7 +584,8 @@
             "owner": "sveitser",
             "repo": "kaggle_diabetic",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T05:27:07.094Z"
         },
         {
           "node_type": "item",
@@ -566,7 +600,8 @@
             "owner": "gregwchase",
             "repo": "eyenet",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T05:27:07.094Z"
         },
         {
           "node_type": "item",
@@ -581,14 +616,15 @@
             "owner": "YijinHuang",
             "repo": "pytorch-classification",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T05:27:07.094Z"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:25.704Z",
+    "last_updated": "2026-08-28T05:27:07.094Z",
     "original_repository_info": {
       "archived": false,
       "id": 248641599,
