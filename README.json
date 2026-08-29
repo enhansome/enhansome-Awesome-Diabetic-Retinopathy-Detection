@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for Paper \"GDRNet: Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains\" ",
+            "homepage": null,
             "id": 664989659,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-04-04T02:45:24Z",
+            "open_issues": 3,
             "owner": "chehx",
             "repo": "DGDR",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 501585640,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-08T13:49:52Z",
+            "open_issues": 3,
             "owner": "mfiddr",
             "repo": "MFIDDR",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diabetic Retinopathy Two-field image Dataset (DRTiD) & source code of Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images",
+            "homepage": null,
             "id": 527086280,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-28T13:53:22Z",
+            "open_issues": 2,
             "owner": "FDU-VTS",
             "repo": "DRTiD",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A General-purpose High-quality Dataset for Diabetic Retinopathy Classification, Lesion Segmentation and Lesion Detection",
+            "homepage": null,
             "id": 185327698,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-11-01T07:28:17Z",
+            "open_issues": 7,
             "owner": "nkicsl",
             "repo": "DDR-dataset",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
         }
@@ -82,12 +102,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official website of our paper: Applications of Deep Learning in Fundus Images: A Review. Newly-released datasets and recently-published papers will be updated regularly.",
+                "homepage": null,
                 "id": 301281657,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-02-13T03:13:50Z",
+                "open_issues": 0,
                 "owner": "nkicsl",
                 "repo": "Fundus_Review",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "age-related-macular-degeneration",
+                  "blood-vessel-segmentation",
+                  "deep-learning",
+                  "diabetic-retinopathy",
+                  "disease-diagnosis",
+                  "fundus-images",
+                  "glaucoma",
+                  "image-synthesis",
+                  "lesion-segmentation",
+                  "medical-imaging",
+                  "od-oc-segmentation",
+                  "retinal-images"
+                ]
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             }
@@ -105,12 +143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 693971248,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-20T05:59:09Z",
+                "open_issues": 3,
                 "owner": "drpredict",
                 "repo": "DeepDR_Plus",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -121,12 +164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 775549527,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-15T20:28:34Z",
+                "open_issues": 0,
                 "owner": "RViMLab",
                 "repo": "RetiGen",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -137,12 +185,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3",
+                "homepage": null,
                 "id": 595366850,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-30T13:57:57Z",
+                "open_issues": 5,
                 "owner": "rmaphoh",
                 "repo": "RETFound",
-                "stars": 668
+                "stars": 668,
+                "topics": [
+                  "ai",
+                  "disease-detection",
+                  "eye",
+                  "foundation-models",
+                  "medical-imaging"
+                ]
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -153,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for Paper \"GDRNet: Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains\" ",
+                "homepage": null,
                 "id": 664989659,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-04-04T02:45:24Z",
+                "open_issues": 3,
                 "owner": "chehx",
                 "repo": "DGDR",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -169,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official code repository for \"Image Quality-aware Diagnosis via Meta-knowledge Co-embedding\" (CVPR2023)",
+                "homepage": null,
                 "id": 617323079,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-27T04:41:17Z",
+                "open_issues": 1,
                 "owner": "chehx",
                 "repo": "MKCNet",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -185,12 +254,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diabetic Retinopathy Grading with Weakly-Supervised Lesion Priors",
+                "homepage": null,
                 "id": 576846096,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-11T07:05:41Z",
+                "open_issues": 1,
                 "owner": "FDU-VTS",
                 "repo": "LANet",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "diabetic-retinopathy"
+                ]
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -201,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608171926,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-23T02:20:13Z",
+                "open_issues": 2,
                 "owner": "IntelliDAL",
                 "repo": "Image",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -217,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading",
+                "homepage": null,
                 "id": 554548657,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-05T06:32:10Z",
+                "open_issues": 1,
                 "owner": "YijinHuang",
                 "repo": "SSiT",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -233,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diabetic Retinopathy Two-field image Dataset (DRTiD) & source code of Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images",
+                "homepage": null,
                 "id": 527086280,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-28T13:53:22Z",
+                "open_issues": 2,
                 "owner": "FDU-VTS",
                 "repo": "DRTiD",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -249,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Team FDVTS_DR's solutions for MICCAI2022 Diabetic Retinopathy Analysis Challenge (DRAC)",
+                "homepage": null,
                 "id": 543064320,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-05T07:57:58Z",
+                "open_issues": 1,
                 "owner": "FDU-VTS",
                 "repo": "DRAC",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -265,12 +361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository linked to the paper \"Focused Attention in Transformers for interpretable classification of retinal images\"",
+                "homepage": null,
                 "id": 509324507,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-07-01T04:56:42Z",
+                "open_issues": 0,
                 "owner": "ClementPla",
                 "repo": "FocusedAttention",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -281,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 383100186,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-27T01:24:02Z",
+                "open_issues": 10,
                 "owner": "greentreeys",
                 "repo": "MIL-VT",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -297,12 +403,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of the paper Lesion-based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images.",
+                "homepage": null,
                 "id": 383751773,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-28T13:55:49Z",
+                "open_issues": 0,
                 "owner": "YijinHuang",
                 "repo": "Lesion-based-Contrastive-Learning",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "contrastive-learning",
+                  "diabetic-retinopathy",
+                  "medical-image-analysis",
+                  "miccai-2021",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -313,12 +430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IEEE TMI 2021",
+                "homepage": null,
                 "id": 278927022,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-15T23:24:06Z",
+                "open_issues": 11,
                 "owner": "xmengli",
                 "repo": "Rotation-oriented-self-supervised",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -329,12 +451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 261065561,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-15T23:16:02Z",
+                "open_issues": 12,
                 "owner": "xmengli",
                 "repo": "self_supervised",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -345,12 +472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 283901643,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-05T10:39:57Z",
+                "open_issues": 8,
                 "owner": "NKUhealong",
                 "repo": "CABnet",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -361,12 +493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TMI 19: CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading",
+                "homepage": null,
                 "id": 219256164,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-12T19:37:27Z",
+                "open_issues": 5,
                 "owner": "xmengli",
                 "repo": "CANet",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             }
@@ -384,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 732247232,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-29T03:30:04Z",
+                "open_issues": 5,
                 "owner": "xqh180110910537",
                 "repo": "HACDR-Net",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -400,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M2MRF: Automated Lesion Segmentation in Fundus Images with Many-to-Many Reassembly of Features",
+                "homepage": null,
                 "id": 433037562,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-21T11:08:18Z",
+                "open_issues": 0,
                 "owner": "CVIU-CSU",
                 "repo": "M2MRF-Lesion-Segmentation",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -416,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "L-Seg: An End-to-End Unified Framework for Multi-lesion Segmentation of Fundus Images",
+                "homepage": null,
                 "id": 181260126,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-05-31T05:15:56Z",
+                "open_issues": 1,
                 "owner": "guomugong",
                 "repo": "L-Seg",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             }
@@ -439,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"OPTIMAL TRANSPORT GUIDED UNSUPERVISED LEARNING FOR ENHANCING LOW-QUALITY RETINAL IMAGES\"",
+                "homepage": null,
                 "id": 554719388,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-27T20:22:09Z",
+                "open_issues": 1,
                 "owner": "Retinal-Research",
                 "repo": "OTE-GAN",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -455,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement",
+                "homepage": null,
                 "id": 611365267,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-13T01:30:35Z",
+                "open_issues": 3,
                 "owner": "QtacierP",
                 "repo": "LED",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -471,12 +633,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing\"",
+                "homepage": null,
                 "id": 561447963,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-02T05:33:55Z",
+                "open_issues": 0,
                 "owner": "Retinal-Research",
                 "repo": "OTRE",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "fundus-image",
+                  "fundus-images",
+                  "retinal-image-analysis",
+                  "retinal-images"
+                ]
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -487,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project for annotation-free image enhancement of fundus, cataract data.",
+                "homepage": null,
                 "id": 500815400,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-12T02:08:47Z",
+                "open_issues": 1,
                 "owner": "liamheng",
                 "repo": "Annotation-free-Fundus-Image-Enhancement",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -503,12 +680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project for annotation-free image enhancement of fundus, cataract data.",
+                "homepage": null,
                 "id": 500815400,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-12T02:08:47Z",
+                "open_issues": 1,
                 "owner": "liamheng",
                 "repo": "Annotation-free-Fundus-Image-Enhancement",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -519,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for Degradation-invariant Enhancement of Fundus Images via Pyramid Constraint Network.",
+                "homepage": null,
                 "id": 504073554,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-18T13:28:49Z",
+                "open_issues": 2,
                 "owner": "HeverLaw",
                 "repo": "PCENet-Image-Enhancement",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -535,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Domain Generalization in Restoration of Cataract Fundus Images via High-frequency Components",
+                "homepage": null,
                 "id": 405024735,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-29T02:26:46Z",
+                "open_issues": 0,
                 "owner": "HeverLaw",
                 "repo": "Restoration-of-Cataract-Images-via-Domain-Generalization",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             },
@@ -551,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I-SECRET: Importance-guided fundus image enhancement via semi-supervised contrastive constraining",
+                "homepage": null,
                 "id": 381592606,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-27T09:35:48Z",
+                "open_issues": 2,
                 "owner": "QtacierP",
                 "repo": "ISECRET",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
             }
@@ -578,12 +775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2nd place solution for the Kaggle Diabetic Retinopathy Detection Challenge",
+            "homepage": null,
             "id": 40316391,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-01-29T03:44:52Z",
+            "open_issues": 9,
             "owner": "sveitser",
             "repo": "kaggle_diabetic",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
         },
@@ -594,12 +796,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identifying diabetic retinopathy using convolutional neural networks",
+            "homepage": "https://www.youtube.com/watch?v=pMGLFlgqxuY",
             "id": 103049010,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-21T21:28:08Z",
+            "open_issues": 0,
             "owner": "gregwchase",
             "repo": "eyenet",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "machine-learning",
+              "neural-network",
+              "retinopathy",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
         },
@@ -610,12 +824,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general, feasible, and extensible framework for classification tasks.",
+            "homepage": null,
             "id": 237594878,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-19T21:59:37Z",
+            "open_issues": 2,
             "owner": "YijinHuang",
             "repo": "pytorch-classification",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "classification",
+              "imbalance-classification",
+              "imbalanced-data",
+              "medical-image-analysis"
+            ]
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
         }
@@ -624,15 +848,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:11:31.012Z",
+    "last_updated": "2026-08-29T04:53:58.819Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
+      "homepage": null,
       "id": 248641599,
       "language": null,
+      "license": null,
       "last_commit": "2024-04-09T15:27:11Z",
+      "open_issues": 0,
       "owner": "FDU-VTS",
       "repo": "Awesome-Diabetic-Retinopathy-Detection",
-      "stars": 173
+      "stars": 173,
+      "topics": [
+        "awesome-list",
+        "diabetic-retinopathy",
+        "diabetic-retinopathy-detection",
+        "medical-imaging"
+      ]
     },
     "original_repository_sha": "c0c872039de4396b9555456fdaf11cd10c484b9b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diabetic-Retinopathy-Detection",
