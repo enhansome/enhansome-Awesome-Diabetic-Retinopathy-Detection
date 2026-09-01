@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "chehx",
             "repo": "DGDR",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
@@ -221,7 +221,7 @@
                 "open_issues": 3,
                 "owner": "chehx",
                 "repo": "DGDR",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:39:30.246Z",
+    "last_updated": "2026-09-01T23:21:03.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
