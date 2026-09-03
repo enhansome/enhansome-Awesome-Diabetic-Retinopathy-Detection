@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "mfiddr",
             "repo": "MFIDDR",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "nkicsl",
             "repo": "DDR-dataset",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
@@ -194,7 +194,7 @@
                 "open_issues": 5,
                 "owner": "rmaphoh",
                 "repo": "RETFound",
-                "stars": 668,
+                "stars": 669,
                 "topics": [
                   "ai",
                   "disease-detection",
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:20:51.196Z",
+    "last_updated": "2026-09-03T23:18:53.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
