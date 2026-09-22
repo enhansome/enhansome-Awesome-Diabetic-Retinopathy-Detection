@@ -18,7 +18,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | Dataset                                                                                                                     | Time | Images  | Format | Camera               | Resolution                           | FOV           | Institudes         | Tasks                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------- | ---- | ------- | ------ | -------------------- | ------------------------------------ | ------------- | ------------------ | --------------------------------------------------------------------------------------------------- |
 | [GDRBench](https://github.com/chehx/DGDR/blob/main/GDRBench/README.md) ⭐ 55 \| 🐛 3 \| 🌐 Jupyter Notebook \| 📅 2026-04-04 | 2023 | 111,357 | /      | /                    | /                                    | /             | Multiple Institues | Domain Generalization in DR Grading (DGDR)                                                          |
-| [MFIDDR](https://github.com/mfiddr/MFIDDR) ⭐ 14 \| 🐛 3 \| 📅 2026-06-08                                                    | 2023 | 34,452  | JPEG   | Zeiss VISUCAM NM/FA  | 2124 × 2056                          | /             | /                  | DR grading                                                                                          |
+| [MFIDDR](https://github.com/mfiddr/MFIDDR) ⭐ 14 \| 🐛 3 \| 📅 2026-09-21                                                    | 2023 | 34,452  | JPEG   | Zeiss VISUCAM NM/FA  | 2124 × 2056                          | /             | /                  | DR grading                                                                                          |
 | [DRTiD](https://github.com/FDU-VTS/DRTiD) ⭐ 29 \| 🐛 2 \| 🌐 Python \| 📅 2024-05-28                                        | 2022 | 3100    | jpg    | /                    | /                                    | Two-field 45° | FDU                | DR grading / localization                                                                           |
 | [FGADR](https://csyizhou.github.io/FGADR/)                                                                                  | 2021 | 2842    | /      | /                    | /                                    | /             | IIAI               | DR grading / Lesion segmentation                                                                    |
 | [DDR](https://github.com/nkicsl/DDR-dataset) ⭐ 133 \| 🐛 7 \| 📅 2024-11-01                                                 | 2019 | 13673   | jpg    | Topcon, Nikon, Canon | /                                    | 45°           | Nankai             | DR grading / Lesion segmentation/detection                                                          |
@@ -444,7 +444,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Projects
 
-* \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 255 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
+* \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 256 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
 * \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 201 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
 
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
