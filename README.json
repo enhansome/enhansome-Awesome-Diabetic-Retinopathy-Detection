@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "nkicsl",
             "repo": "DDR-dataset",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
@@ -502,7 +502,7 @@
                 "open_issues": 5,
                 "owner": "xmengli",
                 "repo": "CANet",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:36:54.149Z",
+    "last_updated": "2026-09-23T23:45:00.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",

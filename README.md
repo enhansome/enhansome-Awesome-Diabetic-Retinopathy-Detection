@@ -21,7 +21,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [MFIDDR](https://github.com/mfiddr/MFIDDR) ⭐ 14 \| 🐛 3 \| 📅 2026-09-21                                                    | 2023 | 34,452  | JPEG   | Zeiss VISUCAM NM/FA  | 2124 × 2056                          | /             | /                  | DR grading                                                                                          |
 | [DRTiD](https://github.com/FDU-VTS/DRTiD) ⭐ 29 \| 🐛 2 \| 🌐 Python \| 📅 2024-05-28                                        | 2022 | 3100    | jpg    | /                    | /                                    | Two-field 45° | FDU                | DR grading / localization                                                                           |
 | [FGADR](https://csyizhou.github.io/FGADR/)                                                                                  | 2021 | 2842    | /      | /                    | /                                    | /             | IIAI               | DR grading / Lesion segmentation                                                                    |
-| [DDR](https://github.com/nkicsl/DDR-dataset) ⭐ 133 \| 🐛 7 \| 📅 2024-11-01                                                 | 2019 | 13673   | jpg    | Topcon, Nikon, Canon | /                                    | 45°           | Nankai             | DR grading / Lesion segmentation/detection                                                          |
+| [DDR](https://github.com/nkicsl/DDR-dataset) ⭐ 134 \| 🐛 7 \| 📅 2024-11-01                                                 | 2019 | 13673   | jpg    | Topcon, Nikon, Canon | /                                    | 45°           | Nankai             | DR grading / Lesion segmentation/detection                                                          |
 | [DeepDRiD](https://isbi.deepdr.org/index.html)                                                                              | 2019 | 2256    | jpg    | TOPCON               | 1956×1934                            | /             | SDCSP              | DR grading / Quality assessment                                                                     |
 | [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/)                                                          | 2015 | 88k     | jpeg   | /                    | /                                    | 50°           | EyePACS            | DR grading                                                                                          |
 | [Messidor](http://www.adcis.net/en/third-party/messidor/)                                                                   | 2014 | 1200    | tiff   | Topcpn TRC NW6       | 1440x960,<br>2240x1488,<br>2304x1536 | 45°           | ADCIS              | DR & DME grading                                                                                    |
@@ -240,7 +240,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading
   [\[pdf\]](https://arxiv.org/abs/1911.01376)
-  [\[code\]](https://github.com/xmengli999/CANet) ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2020-08-12
+  [\[code\]](https://github.com/xmengli999/CANet) ⭐ 85 | 🐛 5 | 🌐 Python | 📅 2020-08-12
   * Xiaomeng Li, Xiaowei Hu, Lequan Yu. *TMI 2019*
 
 * Collaborative learning of semi-supervised segmentation and classification for medical images
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
