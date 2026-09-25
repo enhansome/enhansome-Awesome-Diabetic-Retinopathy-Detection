@@ -784,7 +784,7 @@
             "open_issues": 9,
             "owner": "sveitser",
             "repo": "kaggle_diabetic",
-            "stars": 256,
+            "stars": 255,
             "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:53:48.319Z",
+    "last_updated": "2026-09-25T23:57:42.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",

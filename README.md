@@ -444,7 +444,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Projects
 
-* \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 256 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
+* \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 255 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
 * \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 201 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
 
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
