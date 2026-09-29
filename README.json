@@ -78,7 +78,7 @@
             "id": 185327698,
             "language": null,
             "license": "MIT",
-            "last_commit": "2024-11-01T07:28:17Z",
+            "last_commit": "2026-09-28T12:44:09Z",
             "open_issues": 7,
             "owner": "nkicsl",
             "repo": "DDR-dataset",
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:49:41.751Z",
+    "last_updated": "2026-09-29T01:01:35.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
