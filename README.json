@@ -710,7 +710,7 @@
                 "open_issues": 2,
                 "owner": "HeverLaw",
                 "repo": "PCENet-Image-Enhancement",
-                "stars": 18,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:35:25.617Z",
+    "last_updated": "2026-10-02T00:50:34.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",

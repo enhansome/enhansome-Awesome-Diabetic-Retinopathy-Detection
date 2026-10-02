@@ -423,7 +423,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * Degradation-invariant Enhancement of Fundus Images via Pyramid Constraint Network
   [\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_49)
-  [\[code\]](https://github.com/HeverLaw/PCENet-Image-Enhancement) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2022-10-18
+  [\[code\]](https://github.com/HeverLaw/PCENet-Image-Enhancement) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2022-10-18
   * Haofeng Liu, Heng Li, Huazhu Fu, Ruoxiu Xiao, Yunshu Gao, Yan Hu, Jiang Liu. *MICCAI 2022*
 
 * DOMAIN GENERALIZATION IN RESTORATION OF CATARACT FUNDUS IMAGES VIA HIGH-FREQUENCY COMPONENTS
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
