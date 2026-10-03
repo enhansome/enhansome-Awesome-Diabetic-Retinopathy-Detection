@@ -98,7 +98,7 @@
             {
               "node_type": "item",
               "title": "Applications of Deep Learning in Fundus Images: A Review [pdf]",
-              "description": "[code]",
+              "description": "nkicsl/Fundus_Review",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -139,7 +139,7 @@
             {
               "node_type": "item",
               "title": "A deep learning system for predicting time to progression of diabetic retinopathy [pdf]",
-              "description": "[code]",
+              "description": "drpredict/DeepDR_Plus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -160,7 +160,7 @@
             {
               "node_type": "item",
               "title": "RetiGen: A Framework for Generalized Retinal Diagnosis Using Multi-View Fundus Images [pdf]",
-              "description": "[code]",
+              "description": "RViMLab/RetiGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "A foundation model for generalizable disease detection from retinal images [pdf]",
-              "description": "[code]",
+              "description": "rmaphoh/RETFound",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -208,7 +208,7 @@
             {
               "node_type": "item",
               "title": "Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains [pdf]",
-              "description": "[code]",
+              "description": "chehx/DGDR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -229,7 +229,7 @@
             {
               "node_type": "item",
               "title": "Image Quality-aware Diagnosis via Meta-knowledge Co-embedding [pdf]",
-              "description": "[code]",
+              "description": "chehx/MKCNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -250,7 +250,7 @@
             {
               "node_type": "item",
               "title": "Diabetic Retinopathy Grading with Weakly-Supervised Lesion Priors [pdf]",
-              "description": "[code]",
+              "description": "FDU-VTS/LANet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "Lesion-Aware Contrastive Learning for Diabetic Retinopathy Diagnosis [pdf]",
-              "description": "[code]",
+              "description": "IntelliDAL/Image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -294,7 +294,7 @@
             {
               "node_type": "item",
               "title": "SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading [pdf]",
-              "description": "[code]",
+              "description": "YijinHuang/SSiT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -315,7 +315,7 @@
             {
               "node_type": "item",
               "title": "Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images [pdf]",
-              "description": "[code]",
+              "description": "FDU-VTS/DRTiD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -336,7 +336,7 @@
             {
               "node_type": "item",
               "title": "Deep-OCTA: Ensemble Deep Learning Approaches for Diabetic Retinopathy Analysis on OCTA Images [pdf]",
-              "description": "[code]",
+              "description": "FDU-VTS/DRAC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +357,7 @@
             {
               "node_type": "item",
               "title": "Focused Attention in Transformers for interpretable classification of retinal images [pdf]",
-              "description": "[code]",
+              "description": "ClementPla/FocusedAttention",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -378,7 +378,7 @@
             {
               "node_type": "item",
               "title": "MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification [pdf]",
-              "description": "[code]",
+              "description": "greentreeys/MIL-VT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,7 +399,7 @@
             {
               "node_type": "item",
               "title": "Lesion-Based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images [pdf]",
-              "description": "[code]",
+              "description": "YijinHuang/Lesion-based-Contrastive-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,7 +426,7 @@
             {
               "node_type": "item",
               "title": "Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis [pdf]",
-              "description": "[code]",
+              "description": "xmengli/Rotation-oriented-self-supervised",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -447,7 +447,7 @@
             {
               "node_type": "item",
               "title": "Self-Supervised Feature Learning via Exploiting Multi-Modal Data for Retinal Disease Diagnosis [pdf]",
-              "description": "[code]",
+              "description": "xmengli/self_supervised",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -468,7 +468,7 @@
             {
               "node_type": "item",
               "title": "CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading [pdf]",
-              "description": "[code]",
+              "description": "NKUhealong/CABnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -489,7 +489,7 @@
             {
               "node_type": "item",
               "title": "CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading [pdf]",
-              "description": "[code]",
+              "description": "xmengli/CANet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "Automated lesion segmentation in fundus images with many-to-many reassembly of features [pdf]",
-              "description": "[code]",
+              "description": "CVIU-CSU/M2MRF-Lesion-Segmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images [pdf]",
-              "description": "[code]",
+              "description": "guomugong/L-Seg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,7 +587,7 @@
             {
               "node_type": "item",
               "title": "Optimal Transport Guided Unsupervised Learning for Enhancing low-quality Retinal Images [pdf]",
-              "description": "[code]",
+              "description": "Retinal-Research/OTE-GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement [pdf]",
-              "description": "[code]",
+              "description": "QtacierP/LED",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing [pdf]",
-              "description": "[code]",
+              "description": "Retinal-Research/OTRE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -655,7 +655,7 @@
             {
               "node_type": "item",
               "title": "Structure-Consistent Restoration Network for Cataract Fundus Image Enhancement [pdf]",
-              "description": "[code]",
+              "description": "liamheng/Annotation-free-Fundus-Image-Enhancement",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "An Annotation-Free Restoration Network for Cataractous Fundus Images [pdf]",
-              "description": "[code]",
+              "description": "liamheng/Annotation-free-Fundus-Image-Enhancement",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "Degradation-invariant Enhancement of Fundus Images via Pyramid Constraint Network [pdf]",
-              "description": "[code]",
+              "description": "HeverLaw/PCENet-Image-Enhancement",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -718,7 +718,7 @@
             {
               "node_type": "item",
               "title": "DOMAIN GENERALIZATION IN RESTORATION OF CATARACT FUNDUS IMAGES VIA HIGH-FREQUENCY COMPONENTS [pdf]",
-              "description": "[code]",
+              "description": "HeverLaw/Restoration-of-Cataract-Images-via-Domain-Generalization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -739,7 +739,7 @@
             {
               "node_type": "item",
               "title": "I-SECRET: Importance-Guided Fundus Image Enhancement via Semi-supervised Contrastive Constraining [pdf]",
-              "description": "[code]",
+              "description": "QtacierP/ISECRET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:32:19.039Z",
+    "last_updated": "2026-10-03T04:28:18.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
