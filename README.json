@@ -194,7 +194,7 @@
                 "open_issues": 5,
                 "owner": "rmaphoh",
                 "repo": "RETFound",
-                "stars": 680,
+                "stars": 681,
                 "topics": [
                   "ai",
                   "disease-detection",
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:45:52.418Z",
+    "last_updated": "2026-10-08T01:02:53.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
