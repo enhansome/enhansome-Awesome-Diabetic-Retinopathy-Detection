@@ -46,7 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * Applications of Deep Learning in Fundus Images: A Review
   [\[pdf\]](https://arxiv.org/abs/2101.09864)
-  [\[code\]](https://github.com/nkicsl/Fundus_Review) ⭐ 92 | 🐛 0 | 📅 2022-02-13
+  [\[code\]](https://github.com/nkicsl/Fundus_Review) ⭐ 93 | 🐛 0 | 📅 2022-02-13
   * Tao Li, Wang Bo, Chunyu Hu, Hong Kang, Hanruo Liu, Kai Wang, Huazhu Fu. *MIA 2021*
 
 * Deep learning techniques for diabetic retinopathy classification: A survey
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

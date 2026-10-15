@@ -111,7 +111,7 @@
                 "open_issues": 0,
                 "owner": "nkicsl",
                 "repo": "Fundus_Review",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "age-related-macular-degeneration",
                   "blood-vessel-segmentation",
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:57:17.609Z",
+    "last_updated": "2026-10-15T23:42:01.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
