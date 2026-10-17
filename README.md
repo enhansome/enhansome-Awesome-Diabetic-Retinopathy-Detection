@@ -446,10 +446,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 255 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
-* \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 201 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
+* \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 200 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
 
 * \[[EyePACS](https://github.com/YijinHuang/pytorch-classification) ⭐ 70 | 🐛 2 | 🌐 Python | 📅 2025-09-19] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

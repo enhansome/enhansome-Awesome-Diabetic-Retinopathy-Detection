@@ -805,7 +805,7 @@
             "open_issues": 0,
             "owner": "gregwchase",
             "repo": "eyenet",
-            "stars": 201,
+            "stars": 200,
             "topics": [
               "deep-learning",
               "keras",
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:38:51.180Z",
+    "last_updated": "2026-10-17T23:09:57.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
