@@ -104,7 +104,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * A foundation model for generalizable disease detection from retinal images
   [\[pdf\]](https://www.nature.com/articles/s41586-023-06555-x)
-  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 689 | 🐛 5 | 🌐 Python | 📅 2025-11-30
+  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 690 | 🐛 5 | 🌐 Python | 📅 2025-11-30
   * Yukun Zhou, Mark A. Chia, Siegfried K. Wagner, Murat S. Ayhan, Dominic J. Williamson, Robbert R. Struyven, Timing Liu, Moucheng Xu, Mateo G. Lozano, Peter Woodward-Court, Yuka Kihara, UK Biobank Eye & Vision Consortium, Andre Altmann, Aaron Y. Lee, Eric J. Topol, Alastair K. Denniston, Daniel C. Alexander & Pearse A. Keane. **Nature 2023**
 
 * Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains
@@ -124,7 +124,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * Lesion-Aware Contrastive Learning for Diabetic Retinopathy Diagnosis
   [\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_63)
-  [\[code\]](https://github.com/IntelliDAL/Image) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2024-02-23
+  [\[code\]](https://github.com/IntelliDAL/Image) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2024-02-23
   * Shuai Cheng, Qingshan Hou, Peng Cao, Jinzhu Yang, Xiaoli Liu, Osmar R. Zaiane. *MICCAI 2023*
 
 * DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images
@@ -444,7 +444,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Projects
 
-* \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 255 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
+* \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 254 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
 * \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 200 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
 
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
