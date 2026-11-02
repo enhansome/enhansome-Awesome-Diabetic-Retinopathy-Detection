@@ -104,7 +104,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * A foundation model for generalizable disease detection from retinal images
   [\[pdf\]](https://www.nature.com/articles/s41586-023-06555-x)
-  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 690 | 🐛 5 | 🌐 Python | 📅 2025-11-30
+  [\[code\]](https://github.com/rmaphoh/RETFound_MAE) ⭐ 691 | 🐛 5 | 🌐 Python | 📅 2025-11-30
   * Yukun Zhou, Mark A. Chia, Siegfried K. Wagner, Murat S. Ayhan, Dominic J. Williamson, Robbert R. Struyven, Timing Liu, Moucheng Xu, Mateo G. Lozano, Peter Woodward-Court, Yuka Kihara, UK Biobank Eye & Vision Consortium, Andre Altmann, Aaron Y. Lee, Eric J. Topol, Alastair K. Denniston, Daniel C. Alexander & Pearse A. Keane. **Nature 2023**
 
 * Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains
@@ -446,10 +446,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * \[[Team o\_O](https://github.com/sveitser/kaggle_diabetic) ⭐ 254 | 🐛 9 | 🌐 Python | 📅 2016-01-29] Team o\_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
-* \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 200 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
+* \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 201 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
 
 * \[[EyePACS](https://github.com/YijinHuang/pytorch-classification) ⭐ 70 | 🐛 2 | 🌐 Python | 📅 2025-09-19] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

@@ -194,7 +194,7 @@
                 "open_issues": 5,
                 "owner": "rmaphoh",
                 "repo": "RETFound",
-                "stars": 690,
+                "stars": 691,
                 "topics": [
                   "ai",
                   "disease-detection",
@@ -805,7 +805,7 @@
             "open_issues": 0,
             "owner": "gregwchase",
             "repo": "eyenet",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "deep-learning",
               "keras",
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:10:35.623Z",
+    "last_updated": "2026-11-02T00:48:17.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
@@ -860,7 +860,7 @@
       "open_issues": 0,
       "owner": "FDU-VTS",
       "repo": "Awesome-Diabetic-Retinopathy-Detection",
-      "stars": 174,
+      "stars": 175,
       "topics": [
         "awesome-list",
         "diabetic-retinopathy",
