@@ -502,7 +502,7 @@
                 "open_issues": 5,
                 "owner": "xmengli",
                 "repo": "CANet",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:27:07.094Z"
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:29:18.010Z",
+    "last_updated": "2026-11-06T01:35:40.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",

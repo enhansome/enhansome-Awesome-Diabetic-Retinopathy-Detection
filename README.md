@@ -240,7 +240,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading
   [\[pdf\]](https://arxiv.org/abs/1911.01376)
-  [\[code\]](https://github.com/xmengli999/CANet) ⭐ 85 | 🐛 5 | 🌐 Python | 📅 2020-08-12
+  [\[code\]](https://github.com/xmengli999/CANet) ⭐ 86 | 🐛 5 | 🌐 Python | 📅 2020-08-12
   * Xiaomeng Li, Xiaowei Hu, Lequan Yu. *TMI 2019*
 
 * Collaborative learning of semi-supervised segmentation and classification for medical images
@@ -452,4 +452,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
