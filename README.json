@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "mfiddr",
             "repo": "MFIDDR",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:35:40.445Z",
+    "last_updated": "2026-11-07T00:57:37.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
