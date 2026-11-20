@@ -833,7 +833,7 @@
             "open_issues": 2,
             "owner": "YijinHuang",
             "repo": "pytorch-classification",
-            "stars": 70,
+            "stars": 69,
             "topics": [
               "classification",
               "imbalance-classification",
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:37:16.102Z",
+    "last_updated": "2026-11-20T02:22:02.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",

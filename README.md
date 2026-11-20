@@ -448,8 +448,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * \[[EyeNet](https://github.com/gregwchase/eyenet) ⭐ 201 | 🐛 0 | 🌐 Python | 📅 2021-05-21] Identifying diabetic retinopathy using convolutional neural networks
 
-* \[[EyePACS](https://github.com/YijinHuang/pytorch-classification) ⭐ 70 | 🐛 2 | 🌐 Python | 📅 2025-09-19] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
+* \[[EyePACS](https://github.com/YijinHuang/pytorch-classification) ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2025-09-19] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
