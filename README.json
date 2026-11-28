@@ -194,7 +194,7 @@
                 "open_issues": 5,
                 "owner": "rmaphoh",
                 "repo": "RETFound",
-                "stars": 696,
+                "stars": 697,
                 "topics": [
                   "ai",
                   "disease-detection",
@@ -784,7 +784,7 @@
             "open_issues": 9,
             "owner": "sveitser",
             "repo": "kaggle_diabetic",
-            "stars": 254,
+            "stars": 255,
             "topics": []
           },
           "first_seen": "2026-08-28T05:27:07.094Z"
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:39:26.144Z",
+    "last_updated": "2026-11-28T03:20:21.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and Public Datasets for Diabetic Retinopathy Detection",
